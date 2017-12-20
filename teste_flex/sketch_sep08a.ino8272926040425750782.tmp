@@ -1,0 +1,132 @@
+#include <ResponsiveAnalogRead.h>
+
+ResponsiveAnalogRead sensorPolegar1(15, true);
+ResponsiveAnalogRead sensorPolegar2(14, true);
+ResponsiveAnalogRead sensorIndicador1(13, true);
+ResponsiveAnalogRead sensorIndicador2(12, true);
+ResponsiveAnalogRead sensorMedio1(11, true);
+ResponsiveAnalogRead sensorMedio2(10, true);
+ResponsiveAnalogRead sensorAnelar1(9, true);
+ResponsiveAnalogRead sensorAnelar2 (8, true);
+ResponsiveAnalogRead sensorMindinho1(7, true);
+ResponsiveAnalogRead sensorMindinho2(6, true);
+ResponsiveAnalogRead sensorAbPolInd(5, false);
+ResponsiveAnalogRead sensorAbIndMed(4, false);
+ResponsiveAnalogRead sensorAbMedAne(3, false);
+ResponsiveAnalogRead sensorAbAneMin(2, false);
+
+String valores;
+int PolegarGraus1, IndicadorGraus1, MedioGraus1, AnelarGraus1, MindinhoGraus1; //variáveis com os ângulos de dobra dos sensores de flexão
+int PolegarGraus2, IndicadorGraus2, MedioGraus2, AnelarGraus2, MindinhoGraus2; //variáveis com os ângulos de dobra dos sensores de flexão
+//r=raw
+//f=filtered
+char comando = 'r';
+
+void setup() {
+  Serial.begin(115200);
+  // put your setup code here, to run once:
+  Serial.println("S:\tPol1;Pol2;Ind1;Ind2;Med1;Med2;Ane1;Ane2;Min1;Min2;PolInd;IndMed;MedAne;AneMin\n");
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  if (Serial.available()) {
+    comando = Serial.read();
+  }
+
+  sensorPolegar1.update();
+  sensorPolegar2.update();
+  sensorIndicador1.update();
+  sensorIndicador2.update();
+  sensorMedio1.update();
+  sensorMedio2.update();
+  sensorAnelar1.update();
+  sensorAnelar2.update();
+  sensorMindinho1.update();
+  sensorMindinho2.update();
+  sensorAbPolInd.update();
+  sensorAbIndMed.update();
+  sensorAbMedAne.update();
+  sensorAbAneMin.update();
+
+  switch (comando) {
+    case 'r':
+      valores = "R;\t";
+      valores += String(sensorPolegar1.getRawValue()) + ";";
+      valores += String(sensorPolegar2.getRawValue()) + ";";
+      valores += String(sensorIndicador1.getRawValue()) + ";";
+      valores += String(sensorIndicador2.getRawValue()) + ";";
+      valores += String(sensorMedio1.getRawValue()) + ";";
+      valores += String(sensorMedio2.getRawValue()) + ";";
+      valores += String(sensorAnelar1.getRawValue()) + ";";
+      valores += String(sensorAnelar2.getRawValue()) + ";";
+      valores += String(sensorMindinho1.getRawValue()) + ";";
+      valores += String(sensorMindinho2.getRawValue()) + ";";
+      valores += String(sensorAbPolInd.getRawValue()) + ";";
+      valores += String(sensorAbIndMed.getRawValue()) + ";";
+      valores += String(sensorAbMedAne.getRawValue()) + ";";
+      valores += String(sensorAbAneMin.getRawValue());
+      Serial.println(valores);
+      break;
+    case 'f':
+      valores = "F;\t";
+      valores += String(sensorPolegar1.getValue()) + ";";
+      valores += String(sensorPolegar2.getValue()) + ";";
+      valores += String(sensorIndicador1.getValue()) + ";";
+      valores += String(sensorIndicador2.getValue()) + ";";
+      valores += String(sensorMedio1.getValue()) + ";";
+      valores += String(sensorMedio2.getValue()) + ";";
+      valores += String(sensorAnelar1.getValue()) + ";";
+      valores += String(sensorAnelar2.getValue()) + ";";
+      valores += String(sensorMindinho1.getValue()) + ";";
+      valores += String(sensorMindinho2.getValue()) + ";";
+      valores += String(sensorAbPolInd.getValue()) + ";";
+      valores += String(sensorAbIndMed.getValue()) + ";";
+      valores += String(sensorAbMedAne.getValue()) + ";";
+      valores += String(sensorAbAneMin.getValue());
+      Serial.println(valores);
+      break;
+    case 'g':
+      PolegarGraus1   = map(sensorPolegar1.getValue(),   799, 855, 0, 90);
+      PolegarGraus2   = map(sensorPolegar2.getValue(),   733, 834, 0, 90);
+      IndicadorGraus1 = map(sensorIndicador1.getValue(), 767, 858, 0, 90);
+      IndicadorGraus2 = map(sensorIndicador2.getValue(), 704, 727, 0, 110);
+      MedioGraus1     = map(sensorMedio1.getValue(),     744, 856, 0, 90);
+      MedioGraus2     = map(sensorMedio2.getValue(),     758, 859, 0, 110);
+      AnelarGraus1    = map(sensorAnelar1.getValue(),    724, 814, 0, 90);
+      AnelarGraus2    = map(sensorAnelar2.getValue(),    722, 782, 0, 110);
+      MindinhoGraus1  = map(sensorMindinho1.getValue(),  717, 820, 0, 90);
+      MindinhoGraus2  = map(sensorMindinho2.getValue(),  733, 802, 0, 110);
+      grausAbPolInd   = map(sensorAbPolInd.getValue(),     780, 870, 30, 0);
+      grausAbIndMed   = map(sensorAbIndMed.getValue(),     827, 836, 15, 0);
+      grausAbMedAne   = map(sensorAbMedAne.getValue(),     896, 905, 15, 0);
+      grausAbAneMin   = map(sensorAbAneMin.getValue(),     847, 873, 15, 0);
+    
+      valores = "G;\t";
+      valores += String(PolegarGraus1) + ";";
+      valores += String(PolegarGraus2) + ";";
+      valores += String(IndicadorGraus1) + ";";
+      valores += String(IndicadorGraus2) + ";";
+      valores += String(MedioGraus1) + ";";
+      valores += String(MedioGraus2) + ";";
+      valores += String(AnelarGraus1) + ";";
+      valores += String(AnelarGraus2) + ";";
+      valores += String(MindinhoGraus1) + ";";
+      valores += String(MindinhoGraus2) + ";";
+      valores += String(grausAbPolInd) + ";";
+      valores += String(grausAbIndMed) + ";";
+      valores += String(grausAbMedAne) + ";";
+      valores += String(grausAbAneMin);
+      Serial.println(valores);
+      break;
+    default:
+      delay(100);
+  }
+  //envia valores  para porta serial
+
+  delay(100);
+}
+
+
+
