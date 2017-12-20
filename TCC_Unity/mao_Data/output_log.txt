@@ -1,0 +1,39 @@
+Mono path[0] = 'C:/Users/HPG71/Documents/TD - Andre/TCC_Unity/mao_Data/Managed'
+Mono path[1] = 'C:/Users/HPG71/Documents/TD - Andre/TCC_Unity/mao_Data/Mono'
+Mono config path = 'C:/Users/HPG71/Documents/TD - Andre/TCC_Unity/mao_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/HPG71/Documents/TD - Andre/TCC_Unity/mao_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55500
+Multi-casting "[IP] 192.168.0.12 [Port] 55500 [Flags] 3 [Guid] 3874707472 [EditorId] 3236071665 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-FM61I1F) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55500]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55500]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56472
+PlayerConnection already initialized - listening to [0.0.0.0:55500]
+Player data archive not found at `C:/Users/HPG71/Documents/TD - Andre/TCC_Unity/mao_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family (Microsoft Corporation - WDDM 1.1) (ID=0x2a42)
+    Vendor:   Intel
+    VRAM:     879 MB
+    Driver:   8.15.10.2702
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\mao_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\mao_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\mao_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\mao_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\mao_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\mao_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\mao_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\mao_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.168 seconds
+Platform assembly: C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\mao_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\mao_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.265514 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 14d4 -> priority: 1 

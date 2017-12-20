@@ -1,0 +1,125 @@
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\obj\Debug\Assembly-CSharp.dll
+C:\Users\Paulo Henrique Rover\Documents\Mao pronta\obj\Debug\Assembly-CSharp.pdb
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\UnityEditor.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\UnityEngine.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\UnityEngine.xml
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\UnityEditor.xml
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\gusta\Desktop\Mao pronta\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\gusta\Desktop\Mao pronta\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gusta\Desktop\Mao pronta\obj\Debug\Assembly-CSharp.dll
+C:\Users\gusta\Desktop\Mao pronta\obj\Debug\Assembly-CSharp.pdb
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\obj\Debug\Assembly-CSharp.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\obj\Debug\Assembly-CSharp.pdb
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\UnityEditor.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\UnityEngine.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\UnityEngine.xml
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\UnityEditor.xml
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\gusta\Dropbox\Artigos - TCC\Mao pronta\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\nunit.framework.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEditor.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.xml
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEditor.xml
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\nunit.framework.xml
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\HPG71\Documents\TCC\mao pronta\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\HPG71\Documents\TCC\mao pronta\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\HPG71\Documents\TCC\mao pronta\obj\Debug\Assembly-CSharp.dll
+C:\Users\HPG71\Documents\TCC\mao pronta\obj\Debug\Assembly-CSharp.pdb
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\obj\Debug\Assembly-CSharp.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\nunit.framework.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEditor.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.xml
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEditor.xml
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\nunit.framework.xml
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\HPG71\Documents\TD - Andre\TCC_Unity\obj\Debug\Assembly-CSharp.pdb

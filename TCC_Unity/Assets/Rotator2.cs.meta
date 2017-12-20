@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: a1477c8bc479dce4bb6c717ac09cb30b
+timeCreated: 1510286440
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - firstBone1: {instanceID: 0}
+  - firstBone2: {instanceID: 0}
+  - firstBone3: {instanceID: 0}
+  - firstBone4: {instanceID: 0}
+  - firstBone5: {instanceID: 0}
+  - middleBone1: {instanceID: 0}
+  - middleBone2: {instanceID: 0}
+  - middleBone3: {instanceID: 0}
+  - middleBone4: {instanceID: 0}
+  - middleBone5: {instanceID: 0}
+  - lastBone1: {instanceID: 0}
+  - lastBone2: {instanceID: 0}
+  - lastBone3: {instanceID: 0}
+  - lastBone4: {instanceID: 0}
+  - lastBone5: {instanceID: 0}
+  - hand: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
